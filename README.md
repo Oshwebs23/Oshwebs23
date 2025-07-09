@@ -23,13 +23,6 @@ Welcome to my GitHub! I'm an aspiring **web developer** on a journey to craft be
 - Use my **customer-service experience** to create user-friendly websites and connect better with end users
 - Contribute to open source and collaborate with other devs
 
-## 📫 How to Reach Me
-
-I'm always open to feedback, collaboration, and opportunities to learn more. Connect with me here:
-
-- [LinkedIn](https://linkedin.com/in/osianrichards)
-
-
 ---
 
 Thank you for visiting my GitHub! Stay tuned as I continue my web development adventure. 😄
