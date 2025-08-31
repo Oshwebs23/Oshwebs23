@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Osian
 
-Welcome to my GitHub! I'm an aspiring **web developer** on a journey to craft beautiful, accessible, and interactive websites. I'm currently focusing on mastering the building blocks of the web: **HTML**, **CSS**, and **JavaScript**.
+Aspiring front-end developer with 6 years in customer-focused sales. Passionate about crafting intuitive, responsive web experiences that bridge tech and empathy. Currently deepening my skills in advanced HTML, CSS, JavaScript, and React. Let’s build something meaningful.
 
 ## 🚀 About Me
 
