@@ -25,6 +25,10 @@ Aspiring front-end developer with 6 years in customer-focused sales. Passionate 
 
 ---
 
+** Current project/s that I am working on 
+- Memory Card Game using React
+- Website for local martial art club via Wordpress.com
+
 Thank you for visiting my GitHub! Stay tuned as I continue my web development adventure. 😄
 
 <!---
