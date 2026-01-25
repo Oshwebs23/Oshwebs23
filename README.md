@@ -1,4 +1,5 @@
-Hi there! I'm Osian
+** Hi there! I'm Osian
+
 Aspiring front-end developer with 6 years in customer-focused sales. I’m passionate about building intuitive, responsive web experiences that blend clean design with real empathy for users. Currently deepening my skills in HTML, CSS, JavaScript, and React as I build out my portfolio.
 
 🚀 About Me
