@@ -1,35 +1,31 @@
 # 👋 Hi there! I'm Osian
 
-Aspiring front-end developer with 6 years in customer-focused sales. Passionate about crafting intuitive, responsive web experiences that bridge tech and empathy. Currently deepening my skills in advanced HTML, CSS, JavaScript, and React. Let’s build something meaningful.
+Aspiring front-end developer with 6 years in customer-focused sales. I’m passionate about building intuitive, responsive web experiences that blend clean design with real empathy for users. Currently deepening my skills in HTML, CSS, JavaScript, and React as I build out my portfolio.
 
-## 🚀 About Me
+🚀 About Me
+- 🔧 I enjoy turning ideas into interactive, user-friendly web experiences
+- 🧠 Always learning new tools and techniques
+- 📚 Building projects to strengthen my front-end fundamentals
 
-- 🔧 I love transforming ideas into interactive web experiences
-- 🧠 Constantly learning new tools and techniques
-- 📚 Currently building projects to strengthen my portfolio
+💻 Tech Stack
+HTML • CSS • JavaScript • React (learning)
+Git • GitHub • WordPress
 
-## 💻 Tech Skills
+📈 Current Focus
+- Building a polished portfolio website
+- Strengthening my React skills through hands-on projects
+- Applying my customer-service background to create accessible, user-first interfaces
+- Collaborating and contributing to open-source when possible
 
-| Language     | Level         |
-|--------------|---------------|
-| HTML         | Intermediate  |
-| CSS          | Intermediate  |
-| JavaScript   | Beginner–Intermediate |
+🛠️ Projects in Progress
+- React Memory Card Game — focusing on state, props, API fetching, and component structure
+- Local Martial Arts Club Website — modernising design and improving the club’s online visibility through a modernised WordPress site
 
-## 📈 Goals
+Thanks for visiting — more projects coming soon as I continue my web development journey.
 
-- Build a portfolio website to showcase my work
-- Learn and implement JavaScript frameworks like React
-- Use my **customer-service experience** to create user-friendly websites and connect better with end users
-- Contribute to open source and collaborate with other devs
 
----
 
-** Current project/s that I am working on 
-- Memory Card Game using React
-- Website for local martial art club via Wordpress.com
 
-Thank you for visiting my GitHub! Stay tuned as I continue my web development adventure. 😄
 
 <!---
 Oshwebs23/Oshwebs23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
