@@ -26,7 +26,9 @@ Aspiring front-end developer with 6 years in customer-focused sales. I’m passi
 
 ### 🛠️ Projects in Progress
 - **React Memory Card Game** — focusing on state, props, API fetching, and component structure  
-- **Local Martial Arts Club Website** — modernising design and improving the club’s online visibility through a refreshed WordPress site  
+- **Local Martial Arts Club Website** — modernising design and improving the club’s online visibility through a refreshed WordPress site (Launched as of 03/03/2026)
+- **AM Willett Property Renovations Website** - Wordpress site for a client, building a new website for AM Willett Property Renovations to boost visibility, highlight their Federation of Master Builders accreditation, and improve customer contact.
+ 
 
 ---
 
