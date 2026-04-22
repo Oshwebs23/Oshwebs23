@@ -1,5 +1,11 @@
 **Hi there! I'm Osian**  
-Aspiring front-end developer with 6 years in customer-focused sales. I’m passionate about building intuitive, responsive web experiences that blend clean design with real empathy for users. Currently deepening my skills in HTML, CSS, JavaScript, and React as I build out my portfolio.
+A front‑end developer in progress and founder of *Ascent Web Design*.  
+I bring six years of customer‑focused sales experience into my development work, giving me a strong foundation in communication, problem‑solving, and understanding user needs.
+
+Alongside building my skills in HTML, CSS, JavaScript, and React, I’m developing a niche in SEO‑focused web design — creating websites that improve visibility, attract the right audience, and help businesses grow.
+
+Through Ascent Web Design, I’m working on real client projects that combine clean design, accessibility, and practical SEO strategy. You can find my active work below under Projects in Progress. 
+
 
 ---
 
@@ -24,7 +30,7 @@ Aspiring front-end developer with 6 years in customer-focused sales. I’m passi
 
 ---
 
-### 🛠️ Projects in Progress
+### 🛠️ Projects in Progress (Including Ascent Web Design Work)
 - **React Memory Card Game** — focusing on state, props, API fetching, and component structure  
 - **Local Martial Arts Club Website** — modernising design and improving the club’s online visibility through a refreshed WordPress site (Launched as of 03/03/2026)
 - **AM Willett Property Renovations Website** - Wordpress site for a client, building a new website for AM Willett Property Renovations to boost visibility, highlight their Federation of Master Builders accreditation, and improve customer contact.
