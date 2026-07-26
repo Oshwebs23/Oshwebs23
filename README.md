@@ -31,10 +31,13 @@ Through Ascent Web Design, I’m working on real client projects that combine cl
 ---
 
 ### 🛠️ Projects in Progress (Including Ascent Web Design Work)
-- **React Memory Card Game** — focusing on state, props, API fetching, and component structure  
-- **Local Martial Arts Club Website** — modernising design and improving the club’s online visibility through a refreshed WordPress site (Launched as of 03/03/2026)
-- **AM Willett Property Renovations Website** - Wordpress site for a client, building a new website for AM Willett Property Renovations to boost visibility, highlight their Federation of Master Builders accreditation, and improve customer contact.
- 
+
+- **React Memory Card Game** — focusing on state management, props, API fetching, and component structure.  
+- **Local Martial Arts Club Website** — modernising the design and improving online visibility through a refreshed WordPress site *(launched 03/03/2026).*  
+- **AM Willett Property Renovations** — WordPress site built to boost visibility, highlight Federation of Master Builders accreditation, and improve customer enquiries *(launched 04/05/2026).*  
+- **Coastal Alexander Technique** — WordPress site for a local wellness business *(current client work).*  
+- **Ian Davies Plant Ltd** — WordPress site for a construction and plant hire company *(current client work).*
+
 
 ---
 
