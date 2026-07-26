@@ -9,10 +9,11 @@ Through Ascent Web Design, I’m working on real client projects that combine cl
 
 ---
 
-### 🚀 About Me
-- 🔧 I enjoy turning ideas into interactive, user-friendly web experiences  
-- 🧠 Always learning new tools and techniques  
-- 📚 Building projects to strengthen my front-end fundamentals  
+🚀 About Me  
+Junior front-end developer transitioning into full-time web development, with hands-on WordPress experience and a growing React skillset.  
+🔧 I focus on clean code, simple UX, and websites that genuinely help businesses grow.  
+📚 Always building new projects to strengthen my fundamentals and learn modern tools.
+
 
 ---
 
