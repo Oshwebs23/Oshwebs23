@@ -30,8 +30,8 @@ I specialise in WordPress builds and clean front-end development, with a growing
 ## 🛠️ Projects in Progress (Including Ascent Web Design Work)
 
 - **React Memory Card Game** — focusing on state management, props, API fetching, and component structure.  
-- **Local Martial Arts Club Website** — modernising the design and improving online visibility through a refreshed WordPress site *(launched 03/03/2026).*  
-- **AM Willett Property Renovations** — WordPress site built to boost visibility, highlight Federation of Master Builders accreditation, and improve customer enquiries *(launched 04/05/2026).*  
+- **Local Martial Arts Club Website** — modernizing the design and improving online visibility through a refreshed WordPress site *(launched 03/03/2026).*  https://swanseabayaikidoclub.co.uk/ 
+- **AM Willett Property Renovations** — WordPress site built to boost visibility, highlight Federation of Master Builders accreditation, and improve customer enquiries *(launched 04/05/2026).*  https://amwillett.uk/ 
 - **Coastal Alexander Technique** — WordPress site for a local wellness business *(current client work).*  
 - **Ian Davies Plant Ltd** — WordPress site for a construction and plant hire company *(current client work).*
 
